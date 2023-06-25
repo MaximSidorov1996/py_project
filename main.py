@@ -1,6 +1,4 @@
-from funcs import substration
 from funcs import sum
-
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -13,5 +11,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-print(sum(8, 5))
-print(substration(9, 3))
+print(sum(3, 5))
