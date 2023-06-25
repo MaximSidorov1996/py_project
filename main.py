@@ -1,7 +1,5 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from funcs import substration
+from funcs import sum
 
 
 def print_hi(name):
@@ -14,3 +12,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print(sum(8, 5))
+print(substration(9, 3))
